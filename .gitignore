@@ -1,0 +1,17 @@
+# Ignore environment files
+.env
+config.php
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore dependencies
+node_modules/
+vendor/
+
+# Ignore logs
+*.log
